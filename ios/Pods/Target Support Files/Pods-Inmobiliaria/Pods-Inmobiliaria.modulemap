@@ -1,0 +1,6 @@
+module Pods_Inmobiliaria {
+  umbrella header "Pods-Inmobiliaria-umbrella.h"
+
+  export *
+  module * { export * }
+}

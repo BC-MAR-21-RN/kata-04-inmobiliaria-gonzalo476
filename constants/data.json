@@ -1,0 +1,52 @@
+[
+    {
+        "name": "The Willows",
+        "image": "https://i.pinimg.com/564x/8a/2b/ea/8a2beabd599795c8a74d78b3e2ec8843.jpg",
+        "location": "3517 W. Gray St. Utica",
+        "beds": "3",
+        "baths": "2",
+        "measure": "230 ft",
+        "price": "440/m",
+        "rating": "4.7"
+    },
+    {
+        "name": "Orchad House",
+        "image": "https://i.pinimg.com/564x/88/f3/b8/88f3b8319dd017ef131d979eb02c7a34.jpg",
+        "location": "3517 W. Gray St. Utica",
+        "beds": "3",
+        "baths": "2",
+        "measure": "230 ft",
+        "price": "440/m",
+        "rating": "4.7"
+    },
+    {
+        "name": "Corner House",
+        "image": "https://i.pinimg.com/564x/8d/6a/b1/8d6ab1aee605938c1ff71ddf1954e971.jpg",
+        "location": "3517 W. Gray St. Utica",
+        "beds": "3",
+        "baths": "2",
+        "measure": "230 ft",
+        "price": "440/m",
+        "rating": "4.7"
+    },
+    {
+        "name": "Seasson House",
+        "image": "https://i.pinimg.com/564x/6f/41/c8/6f41c8fb88ae114e81251b46cfee795b.jpg",
+        "location": "3517 W. Gray St. Utica",
+        "beds": "3",
+        "baths": "2",
+        "measure": "230 ft",
+        "price": "440/m",
+        "rating": "4.7"
+    },
+    {
+        "name": "Vacation House",
+        "image": "https://i.pinimg.com/564x/12/ba/c0/12bac0a32602cbdb4b807b927f5610b5.jpg",
+        "location": "3517 W. Gray St. Utica",
+        "beds": "3",
+        "baths": "2",
+        "measure": "230 ft",
+        "price": "440/m",
+        "rating": "4.7"
+    }
+]
